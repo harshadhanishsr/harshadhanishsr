@@ -29,7 +29,7 @@
 
 ## 🚀 Featured Projects
 
-### 🔹 [Anime Analytics Hub — Production ETL Pipeline](https://github.com/harshadhanishsr)
+### 🔹 [Anime Analytics Hub — Production ETL Pipeline](https://github.com/harshadhanishsr/Anime-Analytics-Hub)
 > Python · Apache Airflow · PostgreSQL · Docker · Flask · Pandas
 
 - Processes **30K+ records** with **4-8x throughput improvement** via incremental scraping
@@ -39,7 +39,7 @@
 
 ---
 
-### 🔹 [Stock Market — Magic Formula Strategy](https://github.com/harshadhanishsr)
+### 🔹 [Stock Market — Magic Formula Strategy](https://github.com/harshadhanishsr/Stock_Market_Automation)
 > Python · Financial APIs · Pandas · Portfolio Analytics
 
 - Screened **500 S&P 500 companies** to identify top 30 using Earnings Yield & Return on Capital
